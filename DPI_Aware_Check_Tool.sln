@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.False45", "DPI_Aware_Check_Tool.False45\DPI_Aware_Check_Tool.False45.csproj", "{1900DF01-7A3E-4EA7-9005-A5B5F495FE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.True45", "DPI_Aware_Check_Tool.True45\DPI_Aware_Check_Tool.True45.csproj", "{E8E8CE3B-26B1-4C68-93E4-731BA0621710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.TruePM45", "DPI_Aware_Check_Tool.TruePM45\DPI_Aware_Check_Tool.TruePM45.csproj", "{57915956-2D68-4701-8020-A47B85F4189B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.PerMonitor45", "DPI_Aware_Check_Tool.PerMonitor45\DPI_Aware_Check_Tool.PerMonitor45.csproj", "{E0FC9A00-B9F9-4D49-A1F7-A3376BF55B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.False35", "DPI_Aware_Check_Tool.False35\DPI_Aware_Check_Tool.False35.csproj", "{4603B328-39ED-4A7D-9F88-569017A75CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.True35", "DPI_Aware_Check_Tool.True35\DPI_Aware_Check_Tool.True35.csproj", "{8D884713-5B7F-430B-BDE7-3D10B16B9A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.TruePM35", "DPI_Aware_Check_Tool.TruePM35\DPI_Aware_Check_Tool.TruePM35.csproj", "{A39442C4-90A8-4A1F-BFF7-D1B5B627E7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPI_Aware_Check_Tool.PerMonitor35", "DPI_Aware_Check_Tool.PerMonitor35\DPI_Aware_Check_Tool.PerMonitor35.csproj", "{F031FC59-8981-4679-8DA9-5B830C500C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1900DF01-7A3E-4EA7-9005-A5B5F495FE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1900DF01-7A3E-4EA7-9005-A5B5F495FE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1900DF01-7A3E-4EA7-9005-A5B5F495FE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1900DF01-7A3E-4EA7-9005-A5B5F495FE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E8CE3B-26B1-4C68-93E4-731BA0621710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E8CE3B-26B1-4C68-93E4-731BA0621710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E8CE3B-26B1-4C68-93E4-731BA0621710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E8CE3B-26B1-4C68-93E4-731BA0621710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57915956-2D68-4701-8020-A47B85F4189B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57915956-2D68-4701-8020-A47B85F4189B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57915956-2D68-4701-8020-A47B85F4189B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57915956-2D68-4701-8020-A47B85F4189B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FC9A00-B9F9-4D49-A1F7-A3376BF55B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FC9A00-B9F9-4D49-A1F7-A3376BF55B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FC9A00-B9F9-4D49-A1F7-A3376BF55B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FC9A00-B9F9-4D49-A1F7-A3376BF55B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4603B328-39ED-4A7D-9F88-569017A75CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4603B328-39ED-4A7D-9F88-569017A75CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4603B328-39ED-4A7D-9F88-569017A75CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4603B328-39ED-4A7D-9F88-569017A75CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D884713-5B7F-430B-BDE7-3D10B16B9A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D884713-5B7F-430B-BDE7-3D10B16B9A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D884713-5B7F-430B-BDE7-3D10B16B9A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D884713-5B7F-430B-BDE7-3D10B16B9A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39442C4-90A8-4A1F-BFF7-D1B5B627E7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39442C4-90A8-4A1F-BFF7-D1B5B627E7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39442C4-90A8-4A1F-BFF7-D1B5B627E7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39442C4-90A8-4A1F-BFF7-D1B5B627E7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F031FC59-8981-4679-8DA9-5B830C500C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F031FC59-8981-4679-8DA9-5B830C500C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F031FC59-8981-4679-8DA9-5B830C500C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F031FC59-8981-4679-8DA9-5B830C500C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
