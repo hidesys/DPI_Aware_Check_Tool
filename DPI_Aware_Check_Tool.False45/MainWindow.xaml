@@ -2,6 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="{Binding Title}" Height="450" Width="525"
+        Loaded="Window_Loaded"
         x:Name="Window">
     <StackPanel Orientation="Vertical">
         <Label Content="{Binding Title}"/>
@@ -85,7 +86,7 @@
             <Label Grid.Column="2" Grid.Row="3"
                    FontSize="{Binding Text, ElementName=FontSizeBox}"
                    HorizontalAlignment="Right"
-                   Content="{Binding TransfromFromDevice.M11}"/>
+                   Content="{Binding TransformFromDevice.M11}"/>
             <Label Grid.Column="4" Grid.Row="3"
                    FontSize="{Binding Text, ElementName=FontSizeBox}"
                    >M22:</Label>
@@ -95,7 +96,7 @@
             <Label Grid.Column="5" Grid.Row="3"
                    FontSize="{Binding Text, ElementName=FontSizeBox}"
                    HorizontalAlignment="Right"
-                   Content="{Binding TransfromFromDevice.M22}"/>
+                   Content="{Binding TransformFromDevice.M22}"/>
             <Label Grid.Column="0" Grid.Row="4"
                    FontSize="{Binding Text, ElementName=FontSizeBox}"
                    >Font Size</Label>
