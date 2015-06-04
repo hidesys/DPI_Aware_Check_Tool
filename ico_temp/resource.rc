@@ -1,0 +1,28 @@
+IDI_HIDESYS  ICON  "hidesys.ico"
+IDI_CHINKO   ICON  "chinko.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION        1,1,0,0
+ PRODUCTVERSION     1,1,0,0
+ FILEFLAGS          0x00000000L
+BEGIN
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName", "Sangakukan Dorei Assakugijutsu Fukyu Suishin Gakuyu Kaigi"
+            VALUE "FileDescription", "DPI Aware Check Tool"
+            VALUE "FileVersion", "1.1.0.0"
+            VALUE "InternalName", "DPI_Aware_Check_Tool.exe"
+            VALUE "LegalCopyright", "(c) hidesys. All rights reserved."
+            VALUE "OriginalFilename", "DPI_Aware_Check_Tool.exe"
+            VALUE "ProductName", "DPI Aware Check Tool"
+            VALUE "ProductVersion", "1.1.0.0"
+        END
+    END
+END
